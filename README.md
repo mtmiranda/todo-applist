@@ -16,7 +16,7 @@ O objetivo consiste em uma pequena aplicação de atividades a fazer, para trein
 
 ## :movie_camera: Demonstração 
 
-![App preview](public/app-demonstration.gif)
+![App preview](public/todo-preview.mp4)
 
 ## :computer: **Start** 
 
