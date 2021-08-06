@@ -16,6 +16,8 @@ O objetivo consiste em uma pequena aplicação de atividades a fazer, para trein
 
 ## Demonstração :movie_camera:
 
+![App preview](public/app-demonstration.gif)
+
 ## :computer: **Start** 
 
 👇 Use o comando abaixo para _instalar_ todas as depêndencias
@@ -28,7 +30,7 @@ O objetivo consiste em uma pequena aplicação de atividades a fazer, para trein
     
  ---
  ## Social medias
-[![Instagram Badge](https://img.shields.io/badge/Matheus%20Miranda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.instagram.com/matheusmdsm/)](https://www.instagram.com/matheusmdsm/)
+[![Instagram Badge](https://img.shields.io/badge/Matheus%20Miranda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusmdsm/)](https://www.linkedin.com/in/matheusmdsm/)
 [![Instagram Badge](https://img.shields.io/badge/matheusmdsm-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/matheusmdsm/)](https://www.instagram.com/matheusmdsm/)
 [![Twitter Badge](https://img.shields.io/badge/mattheusmdsm-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mattheusmdsm)](https://twitter.com/mattheusmdsm)
 [![Codepen Badge](https://img.shields.io/badge/mtmiranda-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/mtmiranda)](https://codepen.io/mtmiranda)
